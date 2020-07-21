@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Tiago, I'm a Computer Engineer graduated from University of São Paulo and a Junior Data Scientist @ Big Data. 
+
+My main side project right now is the EPCSAC, which is an online platform for researchers to compare Cloud Scheduling Algorithms. This started as my final project for my Computer Engineering degree, but I'm still improving the project and will keep doing so in the future. 
+
 <!--
 **TNanukem/TNanukem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
