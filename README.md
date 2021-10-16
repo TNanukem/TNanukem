@@ -6,10 +6,10 @@
 
 My name is Tiago, I'm a Computer Engineer graduated from University of São Paulo and a Data Scientist @ Big Data. 
 
-My main side project right now is the EPCSAC, which is an online platform for researchers to compare Cloud Scheduling Algorithms. This started as my final project for my Computer Engineering degree, but I'm still improving the project and will keep doing so in the future. 
+My main side project right now is the scikit-net, a python framework for machine learning tasks using complex networks. I also am the developer of the EPCSAC, which is an online platform for researchers to compare Cloud Scheduling Algorithms. The EPCSAC started as my final project for my Computer Engineering degree, but I'm still improving the project and will keep doing so in the future. 
 
 My main interests are:
-- :bar_chart: Machine Learning and Data Science
+- :bar_chart: Machine Learning, Data Science and Complex Networks
 - :cloud: Cloud Computing
 - :video_game: Emulation and Simulation
 
