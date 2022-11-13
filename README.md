@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-TiagoToledoJr-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagotoledojr/)
 [![Gmail Badge](https://img.shields.io/badge/-tiago.nanu@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:tiago.nanu@gmail.com)
 
-My name is Tiago, I'm a Computer Engineer graduated from University of São Paulo and a Data Scientist @ Big Data. 
+My name is Tiago, I'm a Computer Engineer graduated from University of São Paulo and a Data Scientist @ BTG Pactual. 
 
 My main side project right now is the scikit-net, a python framework for machine learning tasks using complex networks. I also am the developer of the EPCSAC, which is an online platform for researchers to compare Cloud Scheduling Algorithms. The EPCSAC started as my final project for my Computer Engineering degree, but I'm still improving the project and will keep doing so in the future. 
 
